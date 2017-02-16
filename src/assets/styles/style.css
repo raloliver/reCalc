@@ -1,0 +1,20 @@
+#reCalc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 20em 0;    
+}
+#main {
+    background-color: #92D3E9;
+    height: 2em;
+    font-size: 3em;  
+    padding: 0 .5em;  
+    color: #114D67;
+    overflow: hidden;
+    width: 275px;
+}
+.keyCalc {
+    margin: .5em;
+    width: 3em;
+}
